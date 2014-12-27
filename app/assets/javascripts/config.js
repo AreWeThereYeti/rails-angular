@@ -1,0 +1,3 @@
+angularrails = angular.module('angularrails',[
+
+]);
